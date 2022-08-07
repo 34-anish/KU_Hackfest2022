@@ -1,0 +1,1 @@
+This folder contain all the necessary data for the model (sign-o-phrase detector).
